@@ -1,0 +1,4 @@
+Hello My name is Paula, I'm 23 years old.
+I'm leaning File Handling in Python!
+This is my input.txt.
+So far I'm enjoying my experience at PLP.
